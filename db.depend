@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445545653 source:/home/sekoya1/c99/db/main.c
+	<stdio.h>
+	<stdlib.h>
+
